@@ -1,0 +1,32 @@
+core/src/main/scala/org/apache/spark/MapOutputTracker.scala
+  s_894b7b3dcb6000::t_8fb3a76d054dc1 42,1984-2012
+core/src/test/scala/org/apache/spark/MapStatusesSerDeserBenchmark.scala
+  s_894b7b3dcb6000::t_8fb3a76d054dc1 62
+core/src/main/scala/org/apache/spark/scheduler/MapStatusChecksum.scala
+  s_894b7b3dcb6000::t_8fb3a76d054dc1 1-83
+core/src/main/scala/org/apache/spark/internal/config/package.scala
+  s_894b7b3dcb6000::t_8fb3a76d054dc1 2064-2088
+core/src/main/scala/org/apache/spark/scheduler/MapStatus.scala
+  s_894b7b3dcb6000::t_59a3dcce617987 260,472
+  s_894b7b3dcb6000::t_8fb3a76d054dc1 68-76,95-100,102,104,146,152-153,157,163-166,183-186,193-199,209,229-230,249-251,288-291,307-314,352-353,367-368
+core/src/test/scala/org/apache/spark/MapOutputTrackerSuite.scala
+  s_894b7b3dcb6000::t_8fb3a76d054dc1 38-40,276,291-311,604,651
+core/src/test/scala/org/apache/spark/scheduler/MapStatusChecksumSuite.scala
+  s_894b7b3dcb6000::t_8fb3a76d054dc1 1-144
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "c9a46e05510219713fbce4c961afe50afce1cc98",
+  "prompts": {},
+  "sessions": {
+    "s_894b7b3dcb6000": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cabf6f29-8efd-44e7-9fd7-46e158da4cc7",
+        "model": "claude-opus-5"
+      },
+      "human_author": "wang-haihua <wang-haihua@foxmail.com>"
+    }
+  }
+}
